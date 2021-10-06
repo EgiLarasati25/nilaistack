@@ -1,2 +1,2 @@
 # nilaistack
-tuga   1 pemrograman mahir 
+TUGAS 1 -  Perograman Mahir 
